@@ -1,77 +1,39 @@
-# Hi-Hello 👋, my name is Agung Ngurah 
+👋 Hi, I'm Agung Ngurah
+<p align="center"> <img src="images/hutao-ban.png" alt="Hu Tao" width="850"> </p> <p align="center"> <strong>💻 Developer · 🎨 UI/UX · 📱 Mobile · 🌐 Web</strong> </p> <p align="center"> <em>Building things, breaking things, and learning how to fix them.</em> </p>
+🎧 Currently Vibing
+<p align="center"> <img src="images/equalizer.gif" alt="Audio visualizer" width="700"> </p> <p align="center"> <code>🎵 Coding with music on...</code> </p>
+🦋 About Me
 
-<!--
-**HuTao161/HuTao161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm interested in software development, web, and mobile applications
 
-Here are some ideas to get you started:
+🎨 I enjoy creating UI/UX designs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hu Tao Picture 🦋
-![Agung Ngurah](images/hutao-ban.png)
+🌱 Currently learning and experimenting with new technologies
 
-## Technologies & Tools I've Worked With 🛠️
-Here are the technologies, tools, and languages I've worked with:
+🔧 I like turning ideas into working projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; background-color: #0d1117; padding: 20px; border-radius: 12px; border: 2px solid #f0f6fc;">
+🎮 Huge fan of Hu Tao 🦋
 
-  <!-- Languages -->
-  ### Languages 🖥️
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" title="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" title="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" title="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" title="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" title="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" title="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" title="C" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" title="Dart" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" title="PHP" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" title="Lua" />
-  
-  <!-- Frameworks & Libraries -->
-  ### Frameworks & Libraries ⚙️
-  <img src="https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white" alt="Laravel" title="Laravel" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" title="Flutter" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" title="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" />
-  
-  <!-- Tools & IDEs -->
-  ### Tools & IDEs 🛠️
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" title="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" title="GitHub" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio" title="Android Studio" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" title="Visual Studio" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Apache_NetBeans-000000?style=flat&logo=apache-netbeans&logoColor=white" alt="Apache NetBeans" title="NetBeans" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP" title="XAMPP" />
-  
-  <!-- Database -->
-  ### Database 💾
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" />
-  
-  <!-- Design & UI/UX Tools -->
-  ### Design & UI/UX Tools 🎨
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" title="Figma" />
-  <img src="https://img.shields.io/badge/FlutterFlow-0099FF?style=flat&logo=flutter&logoColor=white" alt="FlutterFlow" title="FlutterFlow" />
-</div>
+🛠️ Technologies & Tools
+💻 Languages
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> </p>
+⚙️ Frameworks & Libraries
+<p> <img src="https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </p>
+🔧 Tools & IDEs
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/NetBeans-000000?style=for-the-badge&logo=apachenetbeanside&logoColor=white"> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"> </p>
+🗄️ Database
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </p>
+🎨 Design & UI/UX
+<p> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/FlutterFlow-0099FF?style=for-the-badge&logo=flutter&logoColor=white"> </p>
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HuTao161&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuTao161&layout=compact&langs_count=6&hide_title=true&theme=tokyonight" height="170"> </p>
+🔥 Contribution Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=HuTao161&theme=tokyonight&hide_border=true" /> </p>
+🦋 Featured Projects
 
+🚧 Add your favorite projects here.
 
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuTao161&layout=compact&langs_count=6&hide_title=true)
-
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuTao161&show_icons=true&count_private=true&hide=prs&hide_title=true)
-
-
-
-
+<p align="center"> <a href="https://github.com/HuTao161"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuTao161&repo=YOUR_REPOSITORY&theme=tokyonight"> </a> </p>
+🎵 Random Developer Thought
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B9A&center=true&vCenter=true&width=600&lines=Code+%E2%9C%A8+Create+%E2%9C%A8+Learn+%E2%9C%A8+Repeat;Turning+ideas+into+code...;Debugging+is+just+an+unexpected+feature+%F0%9F%98%8E" alt="Typing SVG"> </p>
+<p align="center"> 🦋 <strong>Thanks for visiting my profile!</strong> 🦋 </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=HuTao161&style=for-the-badge&color=ff69b4"> </p>

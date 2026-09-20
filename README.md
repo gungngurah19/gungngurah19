@@ -1,5 +1,5 @@
-👋 Hi, I'm Agung Ngurah
-<p align="center"> <img src="images/hutao-ban.png" alt="Hu Tao" width="850"> </p> <p align="center"> <strong>💻 Developer · 🎨 UI/UX · 📱 Mobile · 🌐 Web</strong> </p> <p align="center"> <em>Building things, breaking things, and learning how to fix them.</em> </p>
+👋 Hi, I'm Ida Anake Agoeng Ngoerah Bagoes Baswara Atmadjaja AKA Agung Ngurah
+<p align="center"> <img src="images/hutao-ban.png" alt="Hu Tao" width="850"> </p> <p align="center"> <strong>💻 Full-Stack Software Engineer</strong> </p> <p align="center"> 🌐 Web · 📱 Mobile · 🖥️ Desktop · 🎮 Game Development · 🎨 UI/UX </p> <p align="center"> <em>Building things I find interesting and turning ideas into reality.</em> </p>
 🎧 Currently Vibing
 <p align="center"> <img src="images/equalizer.gif" alt="Audio visualizer" width="700"> </p> <p align="center"> <code>🎵 Coding with music on...</code> </p>
 🦋 About Me

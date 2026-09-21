@@ -1,13 +1,12 @@
 👋 Hi, I'm Ida Anake Agoeng Ngoerah Bagoes Baswara Atmadjaja AKA Agung Ngurah
-<p align="center"> <img src="images/equalizer.gif" alt="Audio visualizer" width="700"> </p> <p align="center"> <code>Creator of Vericito JS
+<p align="center"> <code>Creator of Vericito JS
 Join to Framework, AI, and Dekstop Apps with custom DSL (Base on Native JavaScript)</code> </p>
 <p align="center"> <img src="images/hutao-ban.png" alt="Hu Tao" width="850"> </p> <p align="center"> <strong>💻 Full-Stack Software Engineer</strong> </p> <p align="center"> Handle on 🌐 Website | 📱 Mobile Apps | 🖥️ Desktop Apps | 🎮 Game 2D/3D | 🎨 UI/UX Design</p> <p align="center"> <em>Ngoding kalo mut aja, jangan lupa mamam.</em> </p>
 
-
-
-🦋 About Me
-
-💻 I'm interested in software development, web, and mobile applications
+About Me :
+- I'm 17 years old.
+- I'm not really interested in programming because it more complicated than I thought, but just do it and make my dream (Make a Game) became real xD. I interested to Multimedia right now, like a Photograph and Videograph and 2D/3D Animation and drawing of course.
+- I'm a Novel Writer, but hard to make it Masterpiece because the story will be Template. Many older Novel make same story earlier.
 
 🎨 I enjoy creating UI/UX designs
 

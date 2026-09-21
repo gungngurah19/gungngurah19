@@ -1,20 +1,17 @@
-👋 Hi, I'm Ida Anake Agoeng Ngoerah Bagoes Baswara Atmadjaja AKA Agung Ngurah
+<em> Hello World!, I'm Ida Anake Agoeng Ngoerah Bagoes Baswara Atmadjaja AKA Agung Ngurah </em>
+
 <p align="center"> <code>Creator of Vericito JS
 Join to Framework, AI, and Dekstop Apps with custom DSL (Base on Native JavaScript)</code> </p>
-<p align="center"> <img src="images/hutao-ban.png" alt="Hu Tao" width="850"> </p> <p align="center"> <strong>💻 Full-Stack Software Engineer</strong> </p> <p align="center"> Handle on 🌐 Website | 📱 Mobile Apps | 🖥️ Desktop Apps | 🎮 Game 2D/3D | 🎨 UI/UX Design</p> <p align="center"> <em>Ngoding kalo mut aja, jangan lupa mamam.</em> </p>
+
+<p align="center"> <img src="images/hutao-ban.png" alt="Hu Tao" width="850"> </p> <p align="center"> <strong>💻 Full-Stack Software Engineer</strong> </p> <p align="center"> Handle on 🌐 Website | 📱 Mobile Apps | 🖥️ Desktop Apps | 👾 Game 2D/3D | 🎨 UI/UX Design</p> <p align="center"> <em>Ngoding kalo mut aja, jangan lupa mamam.</em> </p>
 
 About Me :
-- I'm 17 years old.
-- I'm not really interested in programming because it more complicated than I thought, but just do it and make my dream (Make a Game) became real xD. I interested to Multimedia right now, like a Photograph and Videograph and 2D/3D Animation and drawing of course.
-- I'm a Novel Writer, but hard to make it Masterpiece because the story will be Template. Many older Novel make same story earlier.
-
-🎨 I enjoy creating UI/UX designs
-
-🌱 Currently learning and experimenting with new technologies
-
-🔧 I like turning ideas into working projects
-
-🎮 Huge fan of Hu Tao 🦋
+- I'm 17 years old 👦.
+- I'm not really interested in programming 🧑‍💻 because it more complicated than I thought, but just do it and make my dream (Make a Game) became real xD. I interested to Multimedia right now 📷, like a Photograph and Videograph and 2D/3D Animation and drawing of course 🫟.
+- I'm a Novel Writer 📚, but hard to make it Masterpiece because the story will be Template. Many older Novel make variable story, so newer noval has same plot with older 😅.
+- I'm like anime but not very bias 🙂. Just like to watch and like the Character, yeah and the Waifu to.
+- I'm focused on Digital Media Entertaiment, like Youtube. Wish 1 million subs this year's 🔥.
+- Yeah, that's all I think wish you're have a nice day 🍀. God Bless You 😇.
 
 🛠️ Technologies & Tools
 💻 Languages
